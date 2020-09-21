@@ -1,5 +1,5 @@
 // code river gave me
-var subtitles= ["an Entrepreneur", "a Hustler","a Young Coder","a Cross-Country runner", "a Track and Feild Long distance runner","a Lifelong Learner", "Taneil Knowles"]
+var subtitles= ["an Entrepreneur", "a Hustler","a Young Coder","a Lifelong Learner", "Taneil Knowles"]
 var count = 0;
 
 $(document).ready(function (){
